@@ -1,1 +1,1 @@
-This project was created on locsl system by Saim Ahmed.
+This project was created from local system by Saim Ahmed.
